@@ -3,8 +3,6 @@
 Anyone can contribute to RSWG; you don't have to join the Working Group, because there is no "membership" -- anyone who participates in the work, as outlined below, is part of the RSWG Working Group.
 
 Before doing so, it's a good idea to familiarize yourself with our [charter](https://datatracker.ietf.org/rfcedtyp/rswg/about/). If you're new to this, you may also want to read [an informal guide to the IETF process](https://www.ietf.org/standards/process/informal/) and the [Tao of the IETF](https://www.ietf.org/tao.html).
-
-
 ## Contributing to Work in Progress
 
 ### Following Discussion
@@ -13,7 +11,7 @@ The RSWG Working Group has a few venues for discussion:
 
 * We have a session at most [IETF meetings](https://www.ietf.org/meeting/), and sometimes in between (called an "interim" meeting). See our [meeting materials repository](https://github.com/rfcseries-wg/wg-materials), and the [official IETF proceedings](https://datatracker.ietf.org/rfcedtyp/rswg/meetings/) for details.
 
-* Our [mailing list](https://www.ietf.org/mailman/listinfo/rswg) is used for notifications of meetings, adoption of documents, consensus calls, issue discussion, and other business. This is the primary discussion venue.
+* Our [mailing list](https://mailman.rfc-editor.org/mailman/listinfo/rswg) is used for notifications of meetings, adoption of documents, consensus calls, issue discussion, and other business. This is the primary discussion venue.
 
 * We use GitHub to track issues, but not for discussion. New topics for discussion should be filed in the New Topics repository (https://github.com/rfcseries-wg/new-topics).
 
@@ -28,7 +26,7 @@ Before filing a new issue, please consider a few things:
 
 * There may be an existing duplicate issue, so please review the issues list first.
 
-* If you're not sure how to phrase your issue, please ask on the [mailing list](https://www.ietf.org/mailman/listinfo/rswg).
+* If you're not sure how to phrase your issue, please ask on the [mailing list](https://mailman.rfc-editor.org/mailman/listinfo/rswg).
 
 New topics can also be raised on the [Working Group mailing list](https://mailarchive.ietf.org/arch/browse/rswg/) by clearly marking them as such (e.g., in the `Subject:` line).
 
