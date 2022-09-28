@@ -5,6 +5,9 @@ Anyone can contribute to RSWG; you don't have to join the Working Group, because
 Before doing so, it's a good idea to familiarize yourself with our [charter](https://datatracker.ietf.org/rfcedtyp/rswg/about/). If you're new to this, you may also want to read [an informal guide to the IETF process](https://www.ietf.org/standards/process/informal/) and the [Tao of the IETF](https://www.ietf.org/tao.html).
 ## Contributing to Work in Progress
 
+The RSWG is not an IETF Working Group but generally follows IETF procedures as detailed below. The specific process for the RSWG is defined in [RFC 9280](https://www.rfc-editor.org/rfc/rfc9280).
+
+
 ### Following Discussion
 
 The RSWG Working Group has a few venues for discussion:
